@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "cardapiodigiital"
+  },
+    "targets": {
+    "cardapiodigiital": {
+      "hosting": {
+        "admin-cardapiodigiital": [
+          "admin-cardapiodigiital"
+        ]
+      }
+    }
+  }
+}
